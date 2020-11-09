@@ -9,9 +9,9 @@
 # Hey there! :wave::smiley:
 
 <!--Introduction -->
-I'm Joinner I'm a **Flutter Developer**:iphone:, looking to solve **real-world problems**:earth_asia:. I'm passionate about making **open-source** more accessible, creating software:computer: and tools to help people, and **building a community**. Do :star2: my repository if you find my project interesting, at least your star could make someone's day:pray:.
+I'm Joinner I'm a Flutter desarrollador developer, seeking to solve real-world problems🌏 and creating apps that help people entertain. I am passionate about programming and I decided to link my two passions into one, graphic design and programming as a Front-End programmer, I always seek to improve myself day by day, I do not stop learning and I seek to become a great FullStack developer, that is why I am daily watching courses and reading what I can, I like to create software💻 and tools to help people and build a community. Give a🌟 to my repository if you find my project interesting, at least its star could make someone's day🙏.
 <br>
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :blush:</em>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> <em><b>I love connecting with different people, so if you want to say <b>hi</b>, I'll be happy to get to know you more! :blush:</em>
 
 <!-- Talking about me -->
 **About Me:**
